@@ -3,17 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ac11385c-e072-4a46-a7e6-7c619f1e9ce8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../41601435-计1604-王鑫雨.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../41601435-计1604-王鑫雨.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P3/out/production/third/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../P3/out/production/third/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P3/out/production/third/removeDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../P3/out/production/third/removeDuplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../P3/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P3/src/removeDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../P3/src/removeDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../~$题目-后8学时.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +20,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-255">
               <caret column="19" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
@@ -39,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
-              <caret line="47" column="7" lean-forward="true" selection-end-line="74" />
+            <state relative-caret-position="1050">
+              <caret line="47" column="7" selection-end-line="74" />
               <folding>
                 <element signature="e#141#142#0" expanded="true" />
                 <element signature="e#166#167#0" expanded="true" />
@@ -56,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Point.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="31" column="5" lean-forward="true" selection-end-line="42" />
+            <state relative-caret-position="690">
+              <caret line="31" column="5" selection-end-line="42" />
               <folding>
                 <element signature="e#177#178#0" expanded="true" />
                 <element signature="e#201#202#0" expanded="true" />
@@ -146,7 +136,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../P5" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -189,28 +179,27 @@
       <updated>1559698325520</updated>
       <workItem from="1559698327257" duration="4028000" />
       <workItem from="1559715021076" duration="1948000" />
-      <workItem from="1560842862190" duration="2601000" />
+      <workItem from="1560842862190" duration="3267000" />
+      <workItem from="1560852551048" duration="575000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8577000" />
+    <option name="totallyTimeSpent" value="9818000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="925" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25738078" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2611658" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Statistic" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38734177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49746835" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -221,6 +210,7 @@
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Statistic" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -301,10 +291,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="47" column="7" lean-forward="true" selection-end-line="74" />
+        <state relative-caret-position="1050">
+          <caret line="47" column="7" selection-end-line="74" />
           <folding>
             <element signature="e#141#142#0" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
@@ -318,8 +315,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Point.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="31" column="5" lean-forward="true" selection-end-line="42" />
+        <state relative-caret-position="690">
+          <caret line="31" column="5" selection-end-line="42" />
           <folding>
             <element signature="e#177#178#0" expanded="true" />
             <element signature="e#201#202#0" expanded="true" />
@@ -341,13 +338,6 @@
             <element signature="e#110#111#0" expanded="true" />
             <element signature="e#140#141#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
