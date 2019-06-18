@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac11385c-e072-4a46-a7e6-7c619f1e9ce8" name="Default Changelist" comment="" />
+    <list default="true" id="ac11385c-e072-4a46-a7e6-7c619f1e9ce8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../41601435-计1604-王鑫雨.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../41601435-计1604-王鑫雨.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P3/out/production/third/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../P3/out/production/third/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P3/out/production/third/removeDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../P3/out/production/third/removeDuplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../P3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P3/src/removeDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../P3/src/removeDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~$题目-后8学时.docx" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,12 +26,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -26,23 +39,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="51" column="43" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+            <state relative-caret-position="1230">
+              <caret line="47" column="7" lean-forward="true" selection-end-line="74" />
               <folding>
-                <element signature="e#116#117#0" expanded="true" />
                 <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
                 <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
                 <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#436#437#0" expanded="true" />
-                <element signature="e#1238#1239#0" expanded="true" />
-                <element signature="e#1262#1263#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Point.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            <state relative-caret-position="149">
+              <caret line="31" column="5" lean-forward="true" selection-end-line="42" />
               <folding>
                 <element signature="e#177#178#0" expanded="true" />
                 <element signature="e#201#202#0" expanded="true" />
@@ -70,9 +75,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IllegalTriangleException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="53" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+            <state>
+              <caret selection-end-line="5" />
               <folding>
+                <element signature="e#110#111#0" expanded="true" />
                 <element signature="e#140#141#0" expanded="true" />
               </folding>
             </state>
@@ -88,15 +94,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Ball.java" />
         <option value="$PROJECT_DIR$/src/ClipError.java" />
-        <option value="$PROJECT_DIR$/src/Gun.java" />
         <option value="$PROJECT_DIR$/src/IllegalTriangleException.java" />
-        <option value="$PROJECT_DIR$/src/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/Gun.java" />
         <option value="$PROJECT_DIR$/src/Point.java" />
+        <option value="$PROJECT_DIR$/src/Triangle.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
@@ -107,6 +116,7 @@
     <option name="width" value="2696" />
     <option name="height" value="1744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -116,12 +126,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="fourth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fourth" type="462c0819:PsiDirectoryNode" />
+              <item name="P4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="fourth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fourth" type="462c0819:PsiDirectoryNode" />
+              <item name="P4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -133,8 +143,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -177,25 +189,28 @@
       <updated>1559698325520</updated>
       <workItem from="1559698327257" duration="4028000" />
       <workItem from="1559715021076" duration="1948000" />
+      <workItem from="1560842862190" duration="2601000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5976000" />
+    <option name="totallyTimeSpent" value="8577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="925" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25359577" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25738078" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38734177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -242,8 +257,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ball.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+        <state relative-caret-position="510">
+          <caret line="17" column="18" lean-forward="true" selection-end-line="35" />
           <folding>
             <element signature="e#89#90#0" expanded="true" />
             <element signature="e#114#115#0" expanded="true" />
@@ -254,71 +269,57 @@
             <element signature="e#273#274#0" expanded="true" />
             <element signature="e#300#301#0" expanded="true" />
             <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ClipError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
-          <folding>
-            <element signature="e#77#78#0" expanded="true" />
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Gun.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="765">
+          <caret line="45" column="9" lean-forward="true" selection-end-line="59" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1227#1228#0" expanded="true" />
+            <element signature="e#1261#1262#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IllegalTriangleException.java">
+    <entry file="file://$PROJECT_DIR$/src/ClipError.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="53" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+        <state relative-caret-position="330">
+          <caret line="11" column="34" lean-forward="true" selection-end-line="15" />
           <folding>
-            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="51" column="43" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+        <state relative-caret-position="1230">
+          <caret line="47" column="7" lean-forward="true" selection-end-line="74" />
           <folding>
-            <element signature="e#116#117#0" expanded="true" />
             <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
             <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
             <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#1238#1239#0" expanded="true" />
-            <element signature="e#1262#1263#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Point.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        <state relative-caret-position="149">
+          <caret line="31" column="5" lean-forward="true" selection-end-line="42" />
           <folding>
             <element signature="e#177#178#0" expanded="true" />
             <element signature="e#201#202#0" expanded="true" />
@@ -332,10 +333,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/IllegalTriangleException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>

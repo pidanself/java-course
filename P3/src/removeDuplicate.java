@@ -1,8 +1,6 @@
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
-
-
 public class removeDuplicate {
     static public void removeDuplicate(ArrayList<Integer> list){
         Set<Integer> s = new HashSet<>();

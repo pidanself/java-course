@@ -30,4 +30,13 @@ public class Point {
                 ", y=" + y +
                 '}';
     }
+
+    public boolean equals(Point obj) {
+        if(this.getX()==obj.getX()&&this.getY()==obj.getY()){
+            return true;
+        }
+        else{
+            return false;
+        }
+    }
 }

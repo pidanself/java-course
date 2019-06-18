@@ -26,6 +26,8 @@ public class Triangle {
     public void setP3(Point p3) {
         this.p3 = p3;
     }
+
+
     public double dis(Point a,Point b){
         return Math.pow(Math.pow(a.getX()-b.getX(),2)+Math.pow(a.getY()-b.getY(),2),0.5);
     }
@@ -37,7 +39,14 @@ public class Triangle {
         this.a=dis(p1,p2);
         this.b=dis(p1,p3);
         this.c=dis(p2,p3);
-        if(a+b<=c||a+c<=b||b+c<=a){
+        if(p1.equals(p2)||p1.equals(p3)||p2.equals(p3)){
+            throw new IllegalTriangleException("输入边无法构造为三角形");
+        }
+
+        if(p1.getX()==p2.getX()&&p1.getX()==p3.getX()){
+            throw new IllegalTriangleException("输入边无法构造为三角形");
+        }
+        if(p1.getY()==p2.getY()&&p1.getY()==p3.getY()){
             throw new IllegalTriangleException("输入边无法构造为三角形");
         }
     }

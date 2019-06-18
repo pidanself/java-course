@@ -20,7 +20,8 @@ public class Main {
         l.add(6);
         l.add(30);
         l.add(30);
+        System.out.println("原本为："+l);
         removeDuplicate.removeDuplicate(l);
-        System.out.println(l);
+        System.out.println("去重后为："+l);
     }
 }
