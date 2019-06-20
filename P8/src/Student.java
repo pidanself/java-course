@@ -2,8 +2,8 @@ import java.io.Serializable;
 
 public class Student implements Serializable {
     private String name;
-    private int id;
-    private boolean sex;
+    private String id;
+    private String sex;
     private String grade;
     private String major;
     private String address;
@@ -16,19 +16,20 @@ public class Student implements Serializable {
         this.name = name;
     }
 
-    public int getId() {
+
+    public String getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(String id) {
         this.id = id;
     }
 
-    public boolean isSex() {
+    public String getSex() {
         return sex;
     }
 
-    public void setSex(boolean sex) {
+    public void setSex(String sex) {
         this.sex = sex;
     }
 
